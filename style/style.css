@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+}
+
+header{
+    background-color: lightskyblue;
+    background-image: url(../img/pattern.png);
+    background-repeat: repeat;
+    background-size: 600px;
+}
+
+.logo{
+   margin-top: 140px;
+    width: 180px;
+}
