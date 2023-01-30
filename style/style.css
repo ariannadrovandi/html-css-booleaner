@@ -43,7 +43,7 @@ figure img{
     width: 938px;
 }
 
-p span{
+span.highlight{
     background-color: yellow;
 }
 
