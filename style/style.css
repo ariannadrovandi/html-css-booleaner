@@ -47,3 +47,6 @@ p span{
     background-color: yellow;
 }
 
+.section2, .section3, .section4, .section5, .section6{
+    margin-top: 30px;
+}
