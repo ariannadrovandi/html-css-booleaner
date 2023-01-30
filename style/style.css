@@ -11,6 +11,7 @@ header{
 
 .logo{
    margin-top: 140px;
+
     width: 180px;
 }
 
@@ -41,3 +42,8 @@ figure img{
 .tim1{
     width: 938px;
 }
+
+p span{
+    background-color: yellow;
+}
+
