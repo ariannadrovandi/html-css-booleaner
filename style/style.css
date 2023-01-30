@@ -13,3 +13,19 @@ header{
    margin-top: 140px;
     width: 180px;
 }
+
+.titolo{
+    font-size: 70px;
+}
+
+.info{
+    font-size: 25px;
+}
+
+.autore{
+    color: rgb(37, 140, 214);
+}
+
+.data, .info{
+    color: gray;
+}
