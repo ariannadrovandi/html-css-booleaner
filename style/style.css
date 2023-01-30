@@ -50,3 +50,15 @@ p span{
 .section2, .section3, .section4, .section5, .section6{
     margin-top: 30px;
 }
+thead th{
+    background-color: rgb(50, 150, 221);
+}
+
+.colored{
+    background-color: lightskyblue;
+}
+
+.long{
+    width: 50%;
+}
+
